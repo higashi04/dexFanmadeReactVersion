@@ -1,0 +1,8 @@
+:root{
+    --mainColor:  #ACC8E5;
+    --mainText: #112A46;
+}
+.naviBar {
+    background-color: var(--mainText);
+    color: var(--mainColor);
+}
